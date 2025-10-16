@@ -1,0 +1,34 @@
+#,Attribute,Description,Type/Values
+1,school,Student's school,"""GP"" = Gabriel Pereira, ""MS"" = Mousinho da Silveira"
+2,sex,Student's sex,"""F"" = female, ""M"" = male"
+3,age,Student's age,Numeric (15–22)
+4,address,Home address type,"""U"" = urban, ""R"" = rural"
+5,famsize,Family size,"""LE3"" = ≤3, ""GT3"" = >3"
+6,Pstatus,Parent’s cohabitation status,"""T"" = together, ""A"" = apart"
+7,Medu,Mother’s education,0–4 (none to higher ed.)
+8,Fedu,Father’s education,0–4 (none to higher ed.)
+9,Mjob,Mother’s job,"""teacher"", ""health"", ""services"", ""at_home"", ""other"""
+10,Fjob,Father’s job,Same as Mjob
+11,reason,Reason to choose school,"""home"", ""reputation"", ""course"", ""other"""
+12,guardian,Student’s guardian,"""mother"", ""father"", ""other"""
+13,traveltime,Travel time to school,"1 = <15 min, 2 = 15–30, 3 = 30–60, 4 = >1h"
+14,studytime,Weekly study time,"1 = <2h, 2 = 2–5h, 3 = 5–10h, 4 = >10h"
+15,failures,Past class failures,"Numeric (n if 1≤n<3, else 4)"
+16,schoolsup,Extra educational support,"""yes"", ""no"""
+17,famsup,Family educational support,"""yes"", ""no"""
+18,paid,Extra paid classes,"""yes"", ""no"""
+19,activities,Extra-curricular activities,"""yes"", ""no"""
+20,nursery,Attended nursery school,"""yes"", ""no"""
+21,higher,Aspires to higher education,"""yes"", ""no"""
+22,internet,Internet at home,"""yes"", ""no"""
+23,romantic,In a romantic relationship,"""yes"", ""no"""
+24,famrel,Family relationship quality,1 = very bad to 5 = excellent
+25,freetime,Free time after school,1 = very low to 5 = very high
+26,goout,Going out with friends,1 = very low to 5 = very high
+27,Dalc,Workday alcohol consumption,1 = very low to 5 = very high
+28,Walc,Weekend alcohol consumption,1 = very low to 5 = very high
+29,health,Current health status,1 = very bad to 5 = very good
+30,absences,School absences,Numeric (0–93)
+31,G1,First period grade,Numeric (0–20)
+32,G2,Second period grade,Numeric (0–20)
+33,G3,Final grade (target),Numeric (0–20)
